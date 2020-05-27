@@ -4,7 +4,7 @@ heroImage: /logo.svg
 heroText:  
 tagline:  
 actionText: 快速上手 →
-actionLink: /guide/
+actionLink: /zh/guide/
 sidebarDepth: 2
 features:
 - title: 优雅美观

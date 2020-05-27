@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'myantdpro',
+  title: 'BF',
   dest: './dist',
   base: '/myantdpro-docs/',
   repo: 'https://github.com/hankaibo/myantdpro-docs',
@@ -11,16 +11,19 @@ module.exports = {
     searchMaxSuggestions: 10,
     nav: [
       {text: '主页', link: '/'},
-      {text: '指南', link: '/guide/'},
+      {text: '指南', link: '/zh/guide/'},
       {
         text: '参考', items: [
           {text: 'Ant Design 文档', link: 'https://ant.design/docs/react/introduce-cn'},
           {text: 'Ant Design Pro 文档', link: 'https://pro.ant.design/docs/getting-started-cn'},
         ]
+      },
+      {
+        text: 'Github', link: 'https://github.com/hankaibo'
       }
     ],
     sidebar: {
-      '/guide/': getGuideSidebar('指南'),
+      '/zh/guide/': getGuideSidebar('指南', '其它'),
     }
   }
 };
@@ -32,19 +35,18 @@ function getGuideSidebar(groupA, groupB) {
       collapsable: false,
       children: [
         '',
-        'department',
-        'user',
-        'role',
-        'menu',
-        'api',
-        'dictionary',
-        'information'
+        'getting-started',
+        'environment',
+        'menu'
       ]
     },
     {
       title: groupB,
       collapsable: false,
-      children: []
+      children: [
+        'faq',
+        'donate'
+      ]
     }
   ]
 }
