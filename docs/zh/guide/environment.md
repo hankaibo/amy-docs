@@ -5,6 +5,7 @@
 * JDK >= 11 
 * MariaDB >= 10.0.0
 * Maven >= 3.0
+* lombok >= 1.10
 * Node >=10
 * Git >= 2
 

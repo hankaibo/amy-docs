@@ -9,8 +9,6 @@ BF 是一款基于经典技术组合（Spring Boot、Apache Shiro、MyBatis、Re
 * 前端源码下载：[https://github.com/hankaibo/myantdpro](https://github.com/hankaibo/myantdpro) 
 * 后台源码下载：[https://github.com/hankaibo/myspringboot](https://github.com/hankaibo/myspringboot)
 
-一个 Java EE ，内置模块如：部门管理、角色用户、菜单及按钮授权、通知公告等。
-
 ## 主要特性
 
 - :gem: **优雅美观**：基于 Ant Design 与Spring Boot体系精心设计
