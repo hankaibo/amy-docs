@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="/alipay-qr-code.png" height="330" >
+<img :src="$withBase('/alipay-qr-code.png')" height="330" >
 
-<img src="/wechat-qr-code.png" height="320" >
+<img :src="$withBase('/wechat-qr-code.png')" height="320" >
  </div>
