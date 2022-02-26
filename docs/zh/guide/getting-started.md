@@ -2,12 +2,12 @@
 
 ## 项目简介
 
-BF 是一款基于经典技术组合（Spring Boot、Apache Shiro、MyBatis、React）的企业级快速开发框架。
+Amy 是一款基于经典技术组合（Spring Boot、Apache Shiro、MyBatis、React）的企业级快速开发框架。
 
 * 官网地址：[https://github.com/hankaibo](https://github.com/hankaibo)
-* 在线文档：[https://hankaibo.github.io/myantdpro-docs/](https://hankaibo.github.io/myantdpro-docs/)
-* 前端源码下载：[https://github.com/hankaibo/myantdpro](https://github.com/hankaibo/myantdpro) 
-* 后台源码下载：[https://github.com/hankaibo/myspringboot](https://github.com/hankaibo/myspringboot)
+* 在线文档：[https://hankaibo.github.io/amy-docs/](https://hankaibo.github.io/amy-docs/)
+* 前端源码下载：[https://github.com/hankaibo/amy-react](https://github.com/hankaibo/amy-react) 
+* 后台源码下载：[https://github.com/hankaibo/amy-java](https://github.com/hankaibo/amy-java)
 
 ## 主要特性
 

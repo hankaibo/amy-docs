@@ -1,4 +1,4 @@
-name: Deploy myantdpro docs to Github Pages CI
+name: Deploy Amy docs to Github Pages CI
 
 on:
   push:

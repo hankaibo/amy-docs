@@ -15,7 +15,7 @@
 
 1. 下载项目
     ```
-    git clone https://github.com/hankaibo/myspringboot.git
+    git clone https://github.com/hankaibo/amy-java.git
     ```
 2. 导入项目
     
@@ -36,7 +36,7 @@
 
 1. 下载项目
     ```
-    git clone https://github.com/hankaibo/myantdpro.git
+    git clone https://github.com/hankaibo/amy-react.git
     ```
 2. 导入项目
 

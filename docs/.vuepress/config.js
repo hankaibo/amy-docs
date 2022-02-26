@@ -1,8 +1,8 @@
 module.exports = {
-  title: 'BF',
+  title: 'Amy',
   dest: './dist',
-  base: '/myantdpro-docs/',
-  repo: 'https://github.com/hankaibo/myantdpro-docs',
+  base: '/amy-docs/',
+  repo: 'https://github.com/hankaibo/amy-docs',
   markdown: {
     lineNumbers: true
   },
